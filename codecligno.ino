@@ -4,7 +4,7 @@ LedControl matrix(12, 11, 10,1);
 
 void setup() {
 
-  pinMode(7, INPUT);
+  pinMode(7, INPUT); // ouverture du port 7
   pinMode(8, INPUT);
   pinMode(9, INPUT);
 
@@ -17,7 +17,7 @@ void loop() {
 
   matrix.clearDisplay(0);
 
-  int bouton1 = digitalRead(7);
+  int bouton1 = digitalRead(7); // variable du premier bouton (etat = 0 par defaut)
 
   int bouton2 = digitalRead(8);
 
@@ -25,7 +25,7 @@ void loop() {
 
 if (bouton1 == 1){
 
-matrix.setLed(0,4 ,0 , true);
+matrix.setLed(0,4 ,0 , true); //affichage d une LED pour la fleche droite
 matrix.setLed(0,5 ,1 , true);
 matrix.setLed(0,4 ,1 , true);
 matrix.setLed(0,3 ,1 , true);
