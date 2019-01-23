@@ -1,7 +1,7 @@
 # Clignotant-velo
 Clignotant de vélo avec 3 modes
 
-![schema](
+![photo: ](photo1.jpg)
 
 ## **Bibliothéque utilisée**
 + LedControl.h
@@ -13,4 +13,5 @@ Clignotant de vélo avec 3 modes
 
 ## **Installation**
 
+![schema : ](diagram.jpg)
 `
