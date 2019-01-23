@@ -14,4 +14,6 @@ Clignotant de vélo avec 3 modes
 ## **Installation**
 
 ![schema : ](diagram.jpg)
+
+![resultat ! : ](https://youtu.be/G3SG6fjiBdg)
 `
