@@ -15,5 +15,5 @@ Clignotant de vélo avec 3 modes
 
 ![schema : ](diagram.jpg)
 
-![resultat](https://www.youtube.com/watch?v=G3SG6fjiBdg)
+![video](https://img.youtube.com/vi/A3YGFTn7JCA/0.jpg)](https://www.youtube.com/watch?v=G3SG6fjiBdg)
 `
