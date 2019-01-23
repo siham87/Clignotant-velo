@@ -1,7 +1,10 @@
 # Clignotant-velo
 Clignotant de vélo avec 3 modes
+Ce projet à été réalisé par @siham87 et @WiLDCaT7534  
 
-![photo: ](photo1.jpg)
+## Video :
+[![video](https://img.youtube.com/vi/G3SG6fjiBdg/0.jpg)](https://www.youtube.com/watch?v=G3SG6fjiBdg)
+
 
 ## **Bibliothéque utilisée**
 + LedControl.h
@@ -9,10 +12,10 @@ Clignotant de vélo avec 3 modes
 ## **Matériel**
 + Arduino
 + Matrice de LED (MAX7219)
-+ 3 Butons
++ 3 Boutons
 
-## **Installation**
+## **Montage**
 
 ![schema : ](diagram.jpg)
 
-[![video](https://img.youtube.com/vi/G3SG6fjiBdg/0.jpg)](https://www.youtube.com/watch?v=G3SG6fjiBdg)
+![photo: ](photo1.jpg)
